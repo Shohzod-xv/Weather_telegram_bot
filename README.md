@@ -8,6 +8,4 @@
 
 4.Hostin(server)ga joylanadi:
 
-5.Webhook qilinadi:
-
-Tugadi. :)
+5.Webhook qilinadi.
